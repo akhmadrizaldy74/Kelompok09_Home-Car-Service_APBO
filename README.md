@@ -1,5 +1,4 @@
 # Home Car Sevice MOBENG
-![cropped-cropped-cropped-Logo-Mobeng-All-Version_Main-Version-with-PB-A-1](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/0b64c3b4-8b3e-4de2-ac62-2cc05cf68b3a)
 ## Selamat Datang di MOBENG
 Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena telah menjadi alternatif yang semakin diminati oleh masyarakat. Layanan ini memungkinkan konsumen untuk mendapatkan perawatan kendaraan mereka tanpa harus meninggalkan rumah atau kantor, memberikan keterjangkauan waktu dan kenyamanan yang sangat dihargai.
 ### Nama Anggota Kelompok :
