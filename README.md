@@ -27,8 +27,15 @@ Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena
 ![ERD](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/9751bf15-0295-4ec5-ade9-26fdd50b59cc)
 ### Class Diagram:
 ![CLASS DIAGRAM](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/570e7da3-9684-4427-80db-22efc2a8bdc0)
+### Sequence Diagram:
+#### Customer:
+![sequence diagram Customer drawio](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/a306124b-d266-4cd4-beaa-c0f84be4d893)
+#### Admin:
+![sequence diagram Admin drawio](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/746e8177-030d-4c5e-87c2-559b42e85dd0)
+#### Teknisi:
+![sequence diagram Teknisi drawio](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/74662533-8cb3-431a-afa2-2f83446184d0)
 ### Wireframe:
-[Klik Untuk Melihat Desain Figma Wireframe.](https://www.figma.com/file/XiliUCMkJufOtorDeKKqUB/Untitled-(Copy)?type=design&node-id=2-1315&mode=design&t=vReV7vaEP8JoQA8V-0) 
+[Klik Untuk Melihat Desain Figma Mockup & Wireframe.](https://www.figma.com/design/lEqspzlItLCg7SnVeSvjQ1/APBO?node-id=142-2483&t=IRwy8gwXZQPg9GHP-1) 
 
 ---
 # Link Youtube:
