@@ -36,7 +36,7 @@ Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena
 ![sequence diagram Teknisi drawio](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/74662533-8cb3-431a-afa2-2f83446184d0)
 ### Activity Diagram:
 ![Activity Diagram drawio](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/1a68752b-ac80-46eb-a394-a0c23a9120c4)
-### Wireframe:
+### Mockup & Wireframe:
 [Klik Untuk Melihat Desain Figma Mockup & Wireframe.](https://www.figma.com/design/lEqspzlItLCg7SnVeSvjQ1/APBO?node-id=142-2483&t=IRwy8gwXZQPg9GHP-1) 
 
 ---
