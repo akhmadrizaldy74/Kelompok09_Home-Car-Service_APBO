@@ -9,8 +9,7 @@ Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena
 ---
 ## Permasalahan Mobeng
 * Kesulitan Mencari Jadwal yang pas dikarenakan masih menggunakan cara yang konvensional.
-* Kesulitan Menjadwalkan Mekanik Dan Komunikasi dengan Customer
-* Kurangnya Sistem Pendukung
+* Kesulitan Menjadwalkan Mekanik Dan Komunikasi dengan Customer di karenakan kurang nya sistem pendukung
 * Keterlambatan karyawan/teknnisi saat melakukan pengerjaan dikarenakan lokasi customer yang jauh.
 ---
 ## Penjelasan Actor, Use Case, ERD, Class Diagram, Sequence Diagram, Dan Activity Diagram
