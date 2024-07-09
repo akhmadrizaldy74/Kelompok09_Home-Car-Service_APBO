@@ -13,7 +13,7 @@ Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena
 * Kurangnya Sistem Pendukung
 * Keterlambatan karyawan/teknnisi saat melakukan pengerjaan dikarenakan lokasi customer yang jauh.
 ---
-## Penjelasan Actor, Use Case, ERD, Class Diagram, Struktur Aplikasi, dan Wireframe
+## Penjelasan Actor, Use Case, ERD, Class Diagram, Sequence Diagram, Dan Activity Diagram
 ### Actor yang menggunakan:
 1. Customer
 2. Teknisi
