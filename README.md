@@ -21,7 +21,7 @@ Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena
 ## Use Case:
 ![USE CASE drawio](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/c4693762-5935-4200-886d-b72168c5c3b4)
 ## Kwitansi:
-![Kwitansi](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/e4dbd521-c7a5-4132-bf20-3771f57deef4)
+![Kwitansi Mobeng](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/d4953198-a885-4d5b-9961-77bd79c2a9ee)
 ## ERD (Entity Relationship Diagram):
 ![ERD](https://github.com/akhmadrizaldy74/Kelompok09_Home-Car-Service_APBO/assets/145973003/9751bf15-0295-4ec5-ade9-26fdd50b59cc)
 ## Class Diagram:
