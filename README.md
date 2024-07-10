@@ -3,7 +3,7 @@
 Kami merancang sebuah aplikasi layanan jasa home car service yang lengkap karena telah menjadi alternatif yang semakin diminati oleh masyarakat. Layanan ini memungkinkan konsumen untuk mendapatkan perawatan kendaraan mereka tanpa harus meninggalkan rumah atau kantor, memberikan keterjangkauan waktu dan kenyamanan yang sangat dihargai.
 ### Nama Anggota Kelompok :
 * Rizky Nuril Ikhsan (4522210030)
-* Afandi ikhsyan alkarim (4522210032)
+* Afandi Ikhsyan Alkarim (4522210032)
 * Daiva Baskoro Upangga (4522210045)
 * Akhmad Rizaldy (4522210050)
 ---
